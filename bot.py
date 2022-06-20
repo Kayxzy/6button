@@ -76,7 +76,7 @@ class Bot(Client):
         if FORCE_SUB_GROUP1:
             try:
                 link = await self.export_chat_invite_link(FORCE_SUB_GROUP1)
-                self.invitelink2 = link
+                self.invitelink4 = link
             except Exception as a:
                 self.LOGGER(__name__).warning(a)
                 self.LOGGER(__name__).warning(
@@ -92,7 +92,7 @@ class Bot(Client):
         if FORCE_SUB_GROUP2:
             try:
                 link = await self.export_chat_invite_link(FORCE_SUB_GROUP2)
-                self.invitelink2 = link
+                self.invitelink5 = link
             except Exception as a:
                 self.LOGGER(__name__).warning(a)
                 self.LOGGER(__name__).warning(
@@ -124,7 +124,7 @@ class Bot(Client):
         if FORCE_SUB_CHANNEL2:
             try:
                 link = await self.export_chat_invite_link(FORCE_SUB_CHANNEL2)
-                self.invitelink3 = link
+                self.invitelink6 = link
             except Exception as a:
                 self.LOGGER(__name__).warning(a)
                 self.LOGGER(__name__).warning(
