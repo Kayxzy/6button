@@ -1,4 +1,4 @@
-# (©)Codexbotz
+Untuk# (©)Codexbotz
 # Recife By #Mafia_Tobatz
 # Kalo clone Gak usah hapus 
 # gue tandain akun tele nya ngentod
@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>𝘏𝘢𝘭𝘭𝘰 {first}\n\n𝘑𝘰𝘪𝘯 𝘥𝘶𝘭𝘶 𝘬𝘢𝘭𝘰 𝘮𝘢𝘶 𝘯𝘰𝘯𝘵𝘰𝘯😘\n\n𝘚𝘪𝘭𝘢𝘩𝘬𝘢𝘯 𝘑𝘰𝘪𝘯 3 𝘎𝘳𝘰𝘶𝘱/𝘊𝘩𝘢𝘯𝘯𝘦𝘭 𝘋𝘪 𝘉𝘢𝘸𝘢𝘩 𝘜𝘯𝘵𝘶𝘬 𝘔𝘦𝘯𝘰𝘯𝘵𝘰𝘯</b>",
+    "<b>𝘏𝘢𝘭𝘭𝘰 {first}\n\n𝘑𝘰𝘪𝘯 𝘥𝘶𝘭𝘶 𝘬𝘢𝘭𝘰 𝘮𝘢𝘶 𝘯𝘰𝘯𝘵𝘰𝘯😘\n\n𝘚𝘪𝘭𝘢𝘩𝘬𝘢𝘯 𝘑𝘰𝘪𝘯 4 𝘎𝘳𝘰𝘶𝘱/𝘊𝘩𝘢𝘯𝘯𝘦𝘭 𝘋𝘪 𝘉𝘢𝘸𝘢𝘩 𝘜𝘯𝘵𝘶𝘬 𝘔𝘦𝘯𝘰𝘯𝘵𝘰𝘯</b>",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
